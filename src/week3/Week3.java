@@ -13,7 +13,7 @@ public class Week3 {
     public static void main(String[] args) 
     {
         System.out.println("Learning Github");
-        System.out.pritnln("changes in github");
+        System.out.println("changes in github");
         // fetch + merge
     }
 
